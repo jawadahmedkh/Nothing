@@ -1721,3 +1721,58 @@ Imagine we want to analyze data:
 * If we **download a dataset** from Kaggle, that's **secondary data**.
 
 ---
+
+## 35. Why Sampling is neccessary
+
+Collecting data from an entire population (e.g., all people in a country) requires huge resources:
+
+* Large teams, devices, and logistics.
+* High costs running into millions or billions.
+* Hence, sampling is preferred to reduce costs and complexity
+
+---
+
+## 36. Randomization in Sampling
+
+* Randomization means selecting samples in a way that every member of the population has an equal chance of being chosen.
+* This reduces bias, ensuring the sample includes diverse groups (rich, poor, young, old, employed, unemployed).
+* Randomized samples reduce errors and improve the accuracy of data analysis.
+
+---
+
+## 36. Types of Sampling
+
+![alt-text](Sampling.png)
+
+### 36.1. Representative Sampling
+
+We Use it when we want to represent whole population on basis of sample.
+
+* Simple Random Sampling
+
+f
+
+* Systematic Sampling
+* Stratified Sampling
+* Cluster Sampling
+
+### 36.2. Non-Reperesentative Sampling
+
+We Use it when we don't want to represent whole population on basis of sample.
+
+* Convienence Sampling
+
+Selecting subjects who are easiest to reach i.e. we know the subject.
+Example: Asking friends or surveying people in a mall.
+
+* Haphazard Sampling
+
+We randomly select subject and reasearch on them.
+
+* Purposive Sampling
+
+We already know the specific area to search for.
+
+---
+
+## j
