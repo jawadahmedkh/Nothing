@@ -1749,9 +1749,6 @@ Collecting data from an entire population (e.g., all people in a country) requir
 We Use it when we want to represent whole population on basis of sample.
 
 * Simple Random Sampling
-
-f
-
 * Systematic Sampling
 * Stratified Sampling
 * Cluster Sampling
@@ -1775,4 +1772,19 @@ We already know the specific area to search for.
 
 ---
 
-## j
+## 37. Hybrid Sampling
+
+Hybrid Sampling is a technique in data collection that combines two or more different sampling methods to gain the advantages of each. It’s commonly used when one sampling method alone may not provide a sufficiently accurate, representative, or feasible sample.
+
+### Why Use Hybrid Sampling?
+
+* To increase accuracy and reduce bias
+* To balance cost and effort
+* To deal with complex or diverse populations
+* To combine probability and non-probability methods (when needed)
+
+---
+
+## 38. Descriptive Statistics
+
+
