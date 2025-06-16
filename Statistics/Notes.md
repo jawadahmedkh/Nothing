@@ -881,9 +881,7 @@ In other words:
 ## 22.1. Mean (Average)
 
 **Formula:**
-➔ $$
-\text{Mean} = \frac{\sum x_i}{n}
-$$
+➔ $\text{Mean} = \frac{\sum x_i}{n}$
 
 where:
 
@@ -907,9 +905,7 @@ Mean = (10 + 20 + 30 + 40 + 50) / 5 = **30**
 
   * If $n$ is **odd**:
 
-    $$
-    \text{Median} = \text{Middle value}
-    $$
+    $\text{Median} = \text{Middle value}$
   * If $n$ is **even**:
 
     $$
